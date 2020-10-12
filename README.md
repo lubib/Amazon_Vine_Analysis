@@ -20,4 +20,4 @@ The analysis of a selected data showed us that there are:
  
 Summary:
 
-In this particur case having a paid Vine review didn't really make a difference in the percentage of 5-star reviews. The Vine program didn't not incentivize positive coverage. Also, to note that there weren't too many paid reviews. 
+In this particur case having a paid Vine review didn't really make a difference in the percentage of 5-star reviews. The Vine program didn't incentivize positive coverage. Also, to note that there weren't too many paid reviews. 
